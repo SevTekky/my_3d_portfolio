@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "my_3d_portfolio",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
