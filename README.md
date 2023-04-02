@@ -13,6 +13,7 @@ I noticed that if i keep only 6 of the spheres, that it works, however that woul
 IMPORTANT DEPENENCY NOTES*********************************************
 dont install react-tilt, instead install 'react-parallax-tilt'. For example:
 
-npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom![3d website screenshot](https://user-images.githubusercontent.com/81267007/229323421-806f2f8f-2bb7-4087-a9a7-a7090770e028.png)
+
 
 this is the command to install all dependencies
