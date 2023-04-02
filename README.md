@@ -1,4 +1,5 @@
-﻿# my_3d_portfolio
+router-dom![3d website screenshot](https://user-images.githubusercontent.com/81267007/229323421-806f2f8f-2bb7-4087-a9a7-a7090770e028.png)
+
 This project was built using Node.js, JavaScript React, and HTML, and features stunning 3D models and geometries created with ThreeJS and React Three Fiber. While the website could have included more 3D objects and figures, some mobile browsers may have had difficulty loading pages that take up too much memory. The website features icons displaying my skills and programming languages, which were originally intended to be 3D spheres that users could interact with by spinning and moving them around. However, this feature was disabled due to performance concerns, and the icons were replaced with 2D versions that move slightly. Despite these limitations, the website is optimized to ensure that it performs well and looks great on all devices.
 
 This project also features icons displaying my skills and programming languages, which were originally intended to be 3D spheres that users could interact with by spinning and moving them around. While this functionality is currently disabled due to performance concerns, it is worth noting that users can uncomment the relevant code in the Tech.jsx file and replace the existing code to re-enable this feature if desired. Despite this limitation, the website is optimized to perform well and look great on all devices.
@@ -13,7 +14,7 @@ I noticed that if i keep only 6 of the spheres, that it works, however that woul
 IMPORTANT DEPENENCY NOTES*********************************************
 dont install react-tilt, instead install 'react-parallax-tilt'. For example:
 
-npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom![3d website screenshot](https://user-images.githubusercontent.com/81267007/229323421-806f2f8f-2bb7-4087-a9a7-a7090770e028.png)
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-
 
 
 this is the command to install all dependencies
