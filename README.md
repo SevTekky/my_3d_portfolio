@@ -1,4 +1,4 @@
-router-dom![3d website screenshot](https://user-images.githubusercontent.com/81267007/229323421-806f2f8f-2bb7-4087-a9a7-a7090770e028.png)
+(https://user-images.githubusercontent.com/81267007/229323421-806f2f8f-2bb7-4087-a9a7-a7090770e028.png)
 
 This project was built using Node.js, JavaScript React, and HTML, and features stunning 3D models and geometries created with ThreeJS and React Three Fiber. While the website could have included more 3D objects and figures, some mobile browsers may have had difficulty loading pages that take up too much memory. The website features icons displaying my skills and programming languages, which were originally intended to be 3D spheres that users could interact with by spinning and moving them around. However, this feature was disabled due to performance concerns, and the icons were replaced with 2D versions that move slightly. Despite these limitations, the website is optimized to ensure that it performs well and looks great on all devices.
 
